@@ -28,7 +28,7 @@ Usage
 
  File Structure
 
-
+```
 ├── app.py               # Flask web application for prediction
 ├── train_model.py       # Script for training the breast cancer prediction model
 ├── breast_cancer_prediction_model.pkl  # Saved machine learning model
@@ -39,7 +39,7 @@ Usage
 ├── data/                # Dataset or data files (if applicable)
 ├── README.md            # Project overview and instructions
 └── requirements.txt     # Python dependencies
-
+```
 
 
 
